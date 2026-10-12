@@ -1,0 +1,27 @@
+# 日志
+*.log
+
+# 输出
+output/
+output3/
+tbl_test/
+
+# 网页缓存
+cache_*.html
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# 敏感/数据
+.env
+*.db
+*.sqlite
